@@ -7,7 +7,7 @@
     
 Languages: English, Ukrainian, Russian, Polish.
 
-My own last game project: From Another World (PL only) - https://drive.google.com/file/d/1u6zn08jkWASLgdNIAjhnCnCkxOEdqORz/view?usp=share_link;
+My own last game project: From Another World (PL only) (~9 hours) - https://drive.google.com/file/d/1u6zn08jkWASLgdNIAjhnCnCkxOEdqORz/view?usp=share_link;
 
 <!---
 jurikimurik/jurikimurik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
