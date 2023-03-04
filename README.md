@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on some game projects or C++ applications.
 - 📫 How to reach me:
     - Telegram: @yuriijensen
+    - Gmail: makovskyiyurii@gmail.com
     
 Languages: English, Ukrainian, Russian, Polish.
 
