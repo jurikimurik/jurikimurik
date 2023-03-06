@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jurikimurik
 - 👀 I’m interested in C++ programming and making games.
-- 🌱 I’m currently learning C++ language.
+- 🌱 I’m currently learning C++ STL Library.
 - 💞️ I’m looking to collaborate on some game projects or C++ applications.
 - 📫 How to reach me:
     - Telegram: @yuriijensen
